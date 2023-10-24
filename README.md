@@ -73,6 +73,7 @@ The primary purpose of this service is to expeditiously inform and remind studen
 4. Enter the internal server address (IP): `http://ip`
 5. Repeat the above steps for error notifications as well.
 6. You can directly open this URL in your browser as well to see all the notifications.
+7. If you encounter issues, check back here for any updated IP addresses or port numbers.
 
 Current address: 
 ```
