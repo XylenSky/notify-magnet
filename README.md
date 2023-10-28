@@ -68,7 +68,7 @@ The primary purpose of this service is to expeditiously inform and remind studen
 **For Android and iOS:**
 
 1. Open the application.
-2. Click on the "+" to add a topic (internship, placement, error) [do not put any spaces].
+2. Click on the "+" to add a topic (internship, placement, error) [case-sensitive] [do not put any spaces].
 3. Select "Use Another Server."
 4. Enter the internal server address (IP): `http://ip`
 5. Repeat the above steps for error notifications as well.
