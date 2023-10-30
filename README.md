@@ -67,14 +67,15 @@ The primary purpose of this service is to expeditiously inform and remind studen
 
 **For Android and iOS:**
 
-1. Open the application.
-2. Click on the "+" to add a topic (internship, placement, error) [case-sensitive] [do not put any spaces].
-3. Select "Use Another Server."
-4. Enter the current server address: `http://10.105.34.28`
-5. Repeat the above steps for error notifications as well.
-6. You can directly open this URL in your browser as well to see all the notifications.
-7. If you encounter issues, check back here for any updated IP addresses or port numbers.
-8. If you're still experiencing issues, please fill out our [issue reporting form](https://forms.gle/B55UbUkG6fv7246i9).
+1. Connect to the any of the campus network.
+2. Open the application.
+3. Click on the "+" to add a topic (internship, placement, error) [case-sensitive] [do not put any spaces].
+4. Select "Use Another Server."
+5. Enter the current server address: `http://10.105.34.28`
+6. Repeat the above steps for error notifications as well.
+7. You can directly open this URL in your browser as well to see all the notifications.
+8. If you encounter issues, check back here for any updated IP addresses or port numbers.
+9. If you're still experiencing issues, please fill out our [issue reporting form](https://forms.gle/B55UbUkG6fv7246i9).
 
 Current address: 
 ```
