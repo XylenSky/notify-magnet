@@ -70,7 +70,7 @@ The primary purpose of this service is to expeditiously inform and remind studen
 1. Open the application.
 2. Click on the "+" to add a topic (internship, placement, error) [case-sensitive] [do not put any spaces].
 3. Select "Use Another Server."
-4. Enter the internal server address (IP): `http://ip`
+4. Enter the current server address: `http://10.105.34.28`
 5. Repeat the above steps for error notifications as well.
 6. You can directly open this URL in your browser as well to see all the notifications.
 7. If you encounter issues, check back here for any updated IP addresses or port numbers.
