@@ -46,6 +46,7 @@ The primary purpose of this service is to expeditiously inform and remind studen
 - Expiring Attachments: Attachment links have an expiration time; please download them promptly to avoid loss.
 - Cache Limits: Notifications are cached for a limited time; if you exceed this limit (while not connected to the campus network), some notifications may not be delivered.
 - Allow background running and auto launch for this application; otherwise, notifications will be missed or delayed.
+- Cache Deletion Caution: Avoid clearing the app's cache or using phone manager tools, as it may delete downloaded PDFs of existing messages.
 - Mobile Apps: The Android and iPhone apps are not developed by us; if some features don't work, it's beyond our control.
 - Restrictions: The service provider disclaims any liability for actions or conduct with the intent of interfering with or obstructing the service's functionality through unethical means.
 - Official Directive: Official representatives' instructions may lead to service discontinuation, possibly without notice.
