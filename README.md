@@ -41,11 +41,12 @@ The primary purpose of this service is to expeditiously inform and remind studen
 ## Known Issues
 
 - Date formatting issue: Dates like "17/09/2023, 11.59 PM" may be recognized as "17/09/2023, 11.00 PM" due to non-standard formatting.
-- Service within the Campus Network: The service is available only within the campus network; you won't receive notifications outside of it.
+- Service Restricted to Campus Network: This service can only be accessed within the campus network, and you will not receive notifications when using mobile data.
 - Notification Priority: Notification order may depend on priority when a large number of notifications are missed.
 - Expiring Attachments: Attachment links have an expiration time; please download them promptly to avoid loss.
 - Cache Limits: Notifications are cached for a limited time; if you exceed this limit (while not connected to the campus network), some notifications may not be delivered.
-- Allow background running of this application; otherwise, notifications will be missed or delayed.
+- Allow background running and auto launch for this application; otherwise, notifications will be missed or delayed.
+- Cache Deletion Caution: Avoid clearing the app's cache or using phone manager tools, as it may delete downloaded PDFs of existing messages.
 - Mobile Apps: The Android and iPhone apps are not developed by us; if some features don't work, it's beyond our control.
 - Restrictions: The service provider disclaims any liability for actions or conduct with the intent of interfering with or obstructing the service's functionality through unethical means.
 - Official Directive: Official representatives' instructions may lead to service discontinuation, possibly without notice.
@@ -67,12 +68,15 @@ The primary purpose of this service is to expeditiously inform and remind studen
 
 **For Android and iOS:**
 
-1. Open the application.
-2. Click on the "+" to add a topic (internship, placement, error).
-3. Select "Use Another Server."
-4. Enter the internal server address (IP): `http://ip`
-5. Repeat the above steps for error notifications as well.
-6. You can directly open this URL in your browser as well to see all the notifications.
+1. Connect to the any of the campus network.
+2. Open the application.
+3. Click on the "+" to add a topic (internship, placement, error) [case-sensitive] [do not put any spaces].
+4. Select "Use Another Server."
+5. Enter the current server address: `http://10.105.34.28`
+6. Repeat the above steps for error notifications as well.
+7. You can directly open this URL in your browser as well to see all the notifications.
+8. If you encounter issues, check back here for any updated IP addresses or port numbers.
+9. If you're still experiencing issues, please fill out our [issue reporting form](https://forms.gle/B55UbUkG6fv7246i9).
 
 Current address: 
 ```
